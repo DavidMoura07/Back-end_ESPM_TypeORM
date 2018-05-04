@@ -7,9 +7,9 @@ Tutorial encontrado em:
 
 Para rodar a API execute os seguintes comandos:
 
-$ cd dist
-
 $ npm install
+
+$ cd dist
 
 $ node app.js
 
