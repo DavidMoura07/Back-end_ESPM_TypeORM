@@ -1,4 +1,4 @@
-# Back-end_ESPM_TypeORM
+# Node + Express + TypeORM
 Tutorial para iniciantes em node+express+TypeORM
 
 Tutorial encontrado em: 
