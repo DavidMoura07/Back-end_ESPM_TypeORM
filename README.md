@@ -9,6 +9,8 @@ Para rodar a API execute os seguintes comandos:
 
 $ cd dist
 
+$ npm install
+
 $ node app.js
 
 Lembre-se de configurar sua base de dados no arquivo src/common/app-config.ts
