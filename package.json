@@ -1,0 +1,33 @@
+{
+  "name": "tsnodeexpresstypeorm",
+  "version": "1.0.0",
+  "description": "Tutorial para iniciantes em node+express+TypeORM",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "reflect-metadata": "^0.1.12",
+    "tslint": "^5.10.0",
+    "typeorm": "^0.2.4",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/express": "^4.11.1",
+    "@types/node": "^10.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMoura07/Back-end_ESPM_TypeORM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMoura07/Back-end_ESPM_TypeORM/issues"
+  },
+  "homepage": "https://github.com/DavidMoura07/Back-end_ESPM_TypeORM#readme"
+}
