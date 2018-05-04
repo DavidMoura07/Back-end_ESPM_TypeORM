@@ -7,7 +7,8 @@ Tutorial encontrado em:
 
 Para rodar a API execute os seguintes comandos:
 
-cd dist
-node app.js
+$ cd dist
+
+$ node app.js
 
 Lembre-se de configurar sua base de dados no arquivo src/common/app-config.ts
